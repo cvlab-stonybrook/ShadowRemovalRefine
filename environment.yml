@@ -1,0 +1,47 @@
+name: ShadowRemovalRefine
+channels:
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=1_gnu
+  - ca-certificates=2024.12.31=h06a4308_0
+  - ld_impl_linux-64=2.40=h12ee557_0
+  - libffi=3.4.4=h6a678d5_1
+  - libgcc-ng=11.2.0=h1234567_1
+  - libgomp=11.2.0=h1234567_1
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - ncurses=6.4=h6a678d5_0
+  - openssl=3.0.15=h5eee18b_0
+  - pip=25.0=py39h06a4308_0
+  - python=3.9.17=h955ad1f_0
+  - readline=8.2=h5eee18b_0
+  - setuptools=75.8.0=py39h06a4308_0
+  - sqlite=3.45.3=h5eee18b_0
+  - tk=8.6.14=h39e8969_0
+  - tzdata=2025a=h04d1e81_0
+  - wheel=0.45.1=py39h06a4308_0
+  - xz=5.6.4=h5eee18b_1
+  - zlib=1.2.13=h5eee18b_1
+  - pip:
+      - certifi==2025.1.31
+      - charset-normalizer==3.4.1
+      - einops==0.6.1
+      - filelock==3.17.0
+      - fsspec==2025.2.0
+      - huggingface-hub==0.28.1
+      - idna==3.10
+      - lpips==0.1.4
+      - numpy==1.23.5
+      - opencv-python==4.8.0.76
+      - packaging==24.2
+      - pillow==10.0.0
+      - pyyaml==6.0.2
+      - requests==2.32.3
+      - scipy==1.13.1
+      - segment-anything==1.0
+      - timm==0.6.13
+      - torch==1.13.1+cu117
+      - torchvision==0.14.1+cu117
+      - tqdm==4.67.1
+      - typing-extensions==4.12.2
+      - urllib3==2.3.0
