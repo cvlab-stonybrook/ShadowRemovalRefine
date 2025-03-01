@@ -1,5 +1,6 @@
 # ShadowRemovalRefine
-Shadow Removal Refinement via Material-Consistent Shadow Edges
+Shadow Removal Refinement via Material-Consistent Shadow Edges.
+
 Shilin Hu, Hieu Le, ShahRukh Athar, Sagnik Das, Dimitris Samaras. WACV 2025.
 
 ## Getting Started
