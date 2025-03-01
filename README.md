@@ -16,6 +16,7 @@ python train_finetunedSAM.py
 
 ## Run ShadowRemovalRefine
 First, change `line83` in `refine.py` to your data path.
+
 Then, run `test_time_adaptation.sh`
 
 ## Baseline Models
