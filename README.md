@@ -12,7 +12,7 @@ conda env create -f environment.yml
 ```
 
 ## Fine-tuned SAM
-You can directly use the checkpoint.
+You can directly use the checkpoint. [GoogleDrive](https://drive.google.com/drive/folders/1nUyo95g80kkRBOiU2YfmQUi50-TIUTGm?usp=sharing)
 Or train your own by
 ```sh
 python train_finetunedSAM.py
